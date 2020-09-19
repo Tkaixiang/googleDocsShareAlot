@@ -1,0 +1,7 @@
+build/
+credentials/
+api/
+dist/User Guide.pdf
+client_secrets.json
+dist/GoogleDocsShareAlot.zip
+__pycache__
